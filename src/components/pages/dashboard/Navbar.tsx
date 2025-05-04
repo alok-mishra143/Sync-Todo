@@ -1,5 +1,4 @@
 import ToggleTheme from "@/components/theme/ToggleTheme";
-import React from "react";
 
 const Navbar = () => {
   return (
